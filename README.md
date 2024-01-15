@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @klv-4455
-- 👀 I’m interested in data analyst role 
-- 🌱 I’m currently learning R programming for the role of junior data analyst
-- 💞️ I’m looking to collaborate on working on the projects.
+- 👀 I am Java Developer  
 
 
 <!---
